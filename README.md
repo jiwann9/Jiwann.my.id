@@ -70,3 +70,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Github    : jiwann9
 
 Hosting   : https://jiwan.my.id
+
+email     : agungman13@gmail.com
